@@ -4,9 +4,6 @@ REST client for external services in the LABraDT Runtime (artifact `de.labradt:r
 runs `EXTERNAL` / `REST` services: it sends the configured HTTP request (GET, POST, PUT, DELETE, query
 parameters, JSON payload) and returns the response body as the service output.
 
-**Internal ISW project. Do not publish.** The runtime plugins are moved out of the runtime project,
-so that the public LABraDT release ships the core and the plugin interfaces only.
-
 ## What is in here
 
 | Path | What it is |
